@@ -23,7 +23,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(bk-clock.png) #343b4c;
+    background: url(./img/bk-clock.png) #343b4c;
     background-size: cover;
     border: 10px solid #ddd;
     border-radius: 50%;
